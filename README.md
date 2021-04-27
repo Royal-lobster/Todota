@@ -2,6 +2,7 @@
 
 A simple Todo list app
 ---
-<center>
-<img src="./screenshot.png"/>  
-</center>
+
+<p align="center">
+  <img src="./screenshot.png"/>  
+</p>
