@@ -1,8 +1,9 @@
 # Todota
 
->> A simple Todo list app
+> A simple Todo list app
 ---
-
+Apk Download: https://github.com/Royal-lobster/todota-reactnative/releases
 <p align="center">
   <img src="./screenshot.png"/>  
 </p>
+
