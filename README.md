@@ -2,5 +2,5 @@
 A simple Todo list app
 ---
 <center>
-<img src="./screenshot.jpg"/>  
+<img style="margin: 0 auto;" src="./screenshot.jpg"/>  
 </center>
