@@ -1,6 +1,6 @@
 # Todota
 
-A simple Todo list app
+>> A simple Todo list app
 ---
 
 <p align="center">
