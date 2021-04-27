@@ -1,1 +1,2 @@
-# todota-reactnative
+# Todota
+A simple Todo list app
