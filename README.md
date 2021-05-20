@@ -4,6 +4,6 @@
 ---
 Apk Download: https://github.com/Royal-lobster/todota-reactnative/releases
 <p align="center">
-  <img src="./screenshot.png"/>  
+  <img src="./interface.png"/>  
 </p>
 
